@@ -13,7 +13,7 @@ https://docs.unrealengine.com/latest/INT/Platforms/VR/
 
 > Code Resources ( C++ is the language we are employing )
 
-http:///www.codeacademy.com
+http://www.codeacademy.com
 
 http://code.makery.ch/
 
