@@ -1,5 +1,5 @@
 # flowMotion
-VR educational software sandbox project for Dr. Ethan Eagle's Lab at Wayne State University 
+VR educational software sandbox project for Dr. Ethan Eagle's Lab at Wayne State University (funding welcome!)
 
 Designed to be an immersive, interactive scientific simulation to improve students' learning, understanding, and cognitive recall.
 
