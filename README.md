@@ -33,14 +33,14 @@ http://www.chai3d.org/
 
 Version four will incorporate HPC and AI for remote simulation interactivity
 
-https://developer.nvidia.com/how-to-cuda-c-cpp
+https://developer.nvidia.com/how-to-cuda-c-cpp <<-- parallel pocessing installation instructions, resource guide, etc
 
-http://www.nvidia.com/docs/IO/116711/sc11-cuda-c-basics.pdf
+http://www.nvidia.com/docs/IO/116711/sc11-cuda-c-basics.pdf <-- parallel processing library reference 
 
-https://www.open-mpi.org/
+https://www.open-mpi.org/ <--multithreading library
 
-https://people.sc.fsu.edu/~jburkardt/cpp_src/mpi/mpi.html
+https://people.sc.fsu.edu/~jburkardt/cpp_src/mpi/mpi.html <-- multithreading examples
 
-http://mlpack.org/ <-- verbose machine learning library in c++
+http://mlpack.org/ <-- verbose machine learning library 
 
 
