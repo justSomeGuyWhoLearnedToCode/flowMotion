@@ -19,9 +19,13 @@ http://code.makery.ch/
 
 https://www.hackerrank.com/
 
+> Initial Goal
+
 The prototype will model a simulation for experimental testing of a fluid dynamics problem
 
 http://www.mat.ucsb.edu/~wakefield/594cm/assignment.htm <--easy to read walkthrough of c++ integration w/ FD equations
+
+> Additional Project Development 
 
 Version two will incorprate an XBox Kinect for Physical Interactivity
 
