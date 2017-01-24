@@ -41,6 +41,6 @@ https://www.open-mpi.org/
 
 https://people.sc.fsu.edu/~jburkardt/cpp_src/mpi/mpi.html
 
-
+http://mlpack.org/ <-- verbose machine learning library in c++
 
 
