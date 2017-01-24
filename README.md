@@ -21,7 +21,7 @@ https://www.hackerrank.com/
 
 The prototype will model a simulation for experimental testing of a fluid dynamics problem
 
-http://www.mat.ucsb.edu/~wakefield/594cm/assignment.htm
+http://www.mat.ucsb.edu/~wakefield/594cm/assignment.htm <--easy to read walkthrough of c++ integration w/ FD equations
 
 Version two will incorprate an XBox Kinect for Physical Interactivity
 
