@@ -35,7 +35,7 @@ Version three will incorporate haptics
 
 http://www.chai3d.org/
 
-Version four will incorporate HPC and AI for remote simulation interactivity
+Version four will incorporate HPC and AI for peer-2-peer hyperspacial VR interactivity 
 
 https://developer.nvidia.com/how-to-cuda-c-cpp <<-- parallel pocessing installation instructions, resource guide, etc
 
